@@ -50,7 +50,7 @@ Activate virtual environment
 For Linux/Mac
 ```python
 source ml_package/bin/activate
-
+```
 
 Deactivate virtual environment
 
